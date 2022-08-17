@@ -1,6 +1,6 @@
 # Node.js File Editor
 
-A simple nodejs program to edit files, based on arguments passed.
+A simple nodejs program to edit files, based on arguments passed. The program supports basic file reading, deleting, creating and appending operations.
 
 
 ## How to use
